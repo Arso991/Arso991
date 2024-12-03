@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋, Welcome to my GitHub Profile
+
+Hi! I'm Arsène, a developer passionate about application development. Here is an overview of my projects and skills.
+
+## About Me
+
+- 👯 I am looking to collaborate on all types of projects.
+- 💬 Ask me about application development.
+- 📫 How to reach me: arsogn991@gmail.com.
+- ⚡ Fun fact: I code like a bulldozer.
 
 <!--
 **Arso991/Arso991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
