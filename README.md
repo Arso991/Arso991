@@ -1,13 +1,24 @@
 ## Hi 👋, Welcome to my GitHub Profile
-
 Hi! I'm Arsène, a developer passionate about application development. Here is an overview of my projects and skills.
 
 ## About Me
-
 - 👯 I am looking to collaborate on all types of projects.
 - 💬 Ask me about application development.
 - 📫 How to reach me: arsogn991@gmail.com.
 - ⚡ Fun fact: I code like a bulldozer.
+
+## Skills
+- Programming languages: JavaScript, PHP, etc.
+- Frameworks: Laravel, Vue.js, Express.js, etc.
+- Databases: MongoDB, MySQL, PostgreSQL, etc.
+- Tools: Git, Docker, CI/CD.
+- Other skills: Project management.
+
+## Contributions
+
+## Contact
+Email:arsogn991@gmail.com
+LinkedIn: [Arsènee on LinkedIn](https://www.linkedin.com/in/arsogn/)
 
 <!--
 **Arso991/Arso991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
