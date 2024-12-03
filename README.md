@@ -17,8 +17,8 @@ Hi! I'm Arsène, a developer passionate about application development. Here is a
 ## Contributions
 
 ## Contact
-Email:arsogn991@gmail.com
-LinkedIn: [Arsènee on LinkedIn](https://www.linkedin.com/in/arsogn/)
+- Email:arsogn991@gmail.com
+- LinkedIn: [Arsène on LinkedIn](https://www.linkedin.com/in/arsogn/)
 
 <!--
 **Arso991/Arso991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
